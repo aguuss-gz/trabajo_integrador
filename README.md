@@ -21,3 +21,6 @@ Abrí la terminal de tu sistema, parate dentro de la carpeta `src/` de este proy
 
 ```bash
 javac Menu.java entities/*.java enums/*.java exception/*.java interfaces/*.java && java Menu
+
+```
+## Link del video: https://drive.google.com/file/d/19FEptKIlC6JprRJnLFrcIbv3JIfBjZny/view?usp=sharing
